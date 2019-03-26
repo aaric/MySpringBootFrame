@@ -1,4 +1,4 @@
-rootProject.name = 'MySpringBootFrame'
+rootProject.name = 'shiro-reference'
 include 'Base'
 include 'Sys'
 include 'RDB'
